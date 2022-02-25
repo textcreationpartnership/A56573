@@ -1,0 +1,484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The testimony of that dear and faithful man, John Matern who had lived six years and faithfully served the Lord in his vocation in the family of C. T. now dwelling at Edmonton in Middlesex. Also, other blessed testimonies concerning him, and the truth itself; with something concerning his blessed condition in the time of his sickness, and when he was near his departure. With several testimonies of sensible children who had been under his tuition. Published that God may have his glory in preserving his faithful ones faithful to the end. A. P.</title>
+            <author>Matern, John, 1639 or 40-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56573</idno>
+            <idno type="STC">Wing P683</idno>
+            <idno type="STC">ESTC R217118</idno>
+            <idno type="EEBO-CITATION">99828819</idno>
+            <idno type="PROQUEST">99828819</idno>
+            <idno type="VID">33251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33251)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1932:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The testimony of that dear and faithful man, John Matern who had lived six years and faithfully served the Lord in his vocation in the family of C. T. now dwelling at Edmonton in Middlesex. Also, other blessed testimonies concerning him, and the truth itself; with something concerning his blessed condition in the time of his sickness, and when he was near his departure. With several testimonies of sensible children who had been under his tuition. Published that God may have his glory in preserving his faithful ones faithful to the end. A. P.</title>
+                  <author>Matern, John, 1639 or 40-1680.</author>
+                  <author>Paterson, A., Quaker.</author>
+                  <author>Taylor, Christopher, ca. 1615-1686. aut</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Ben. Clark. in George-Yard in Lumbard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A. P. = A. Paterson; "To the Reader" signed: A. Paterson.</note>
+                  <note>C. T. = Christopher Taylor.</note>
+                  <note>Testimonial signed: J. Matern, on p. 10.</note>
+                  <note>Includes letters signed by several of Matern's students, and by his employer C[hristopher]. T[aylor].</note>
+                  <note>Attributed by Wing to A. Paterson.</note>
+                  <note>Wing gives title as: "A testimonial ..".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Teachers --  England --  Early works to 1800.</term>
+               <term>Teacher-student relationships --  England --  Early works to 1800.</term>
+               <term>Witness bearing (Christianity) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33251:1" rendition="simple:additions"/>
+            <p>THE TESTIMONY Of that Dear and Faithful Man, <hi>JOHN MATERN,</hi>
+            </p>
+            <p>Who had Lived Six Years and Faithful<g ref="char:EOLhyphen"/>ly ſerved the Lord in his Vocation in the Family of <hi>C. T.</hi> now Dwelling at <hi>Edmonton</hi> in <hi>Middleſex.</hi>
+            </p>
+            <p>ALSO, Other Bleſſed Teſtimonies concerning Him, and the TRUTH it ſelf;</p>
+            <p>With ſomething concerning his Bleſſed Condition in the time of his Sickneſs, and when He was near his Departure.</p>
+            <p>WITH Several <hi>Teſtimonies</hi> of Senſible Children who had been under His Tuition.</p>
+            <p>
+               <hi>Publiſhed that God may have his Glory in Pre<g ref="char:EOLhyphen"/>ſerving his Faithful ones Faithful to the end.</hi> A. P.</p>
+            <p>
+               <hi>LONDON, Printed,</hi> and are to be S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by <hi>Ben. Clark</hi> in <hi>George-Yard</hi> in <hi>Lumbard-ſtreet.</hi> 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33251:2"/>
+            <pb facs="tcp:33251:2"/>
+            <head>TO THE READER.</head>
+            <p>DEar Friends, to whoſe Hands theſe following Teſti<g ref="char:EOLhyphen"/>monies may come, here you may ſee the wonderful dealings of the Lord God, whoſe faithfulneſs fails nei<g ref="char:EOLhyphen"/>ther Young nor Old, who Travail in their meaſures for the proſperity of his bleſſed Truth, both in their own parti<g ref="char:EOLhyphen"/>culars, and that the Increaſe thereof may be great in the Earth. Theſe Teſtimonies both of that faithful Servant of the Lord <hi>J. M.</hi> as alſo of others who are conſiderable members of this Family, together with the ſenſible Chil<g ref="char:EOLhyphen"/>drens Teſtimonies concerning the aforeſaid Man, We thought good to Publiſh, that the Goodneſs, Mercy, and Loving, Kindneſs of our tender and Compaſſionate Fa<g ref="char:EOLhyphen"/>ther, may be Proclaimed in the Ears of many, that through the Travelling Birth in others, who at any time may have the occaſion to peruſe them, there may Praiſes aſcend even on this account to the God of Heaven; this I believe will be the Effect, that they will have in the Hearts of all <hi>Zions</hi> Favourites. And not only ſo, but the Love of God conſtrains us to ſend them abroad, as ſo many Meſſages and Invitations to others, who may have been under the profeſſion of Truth for ſome time, and yet Strangers to the Life and efficacy thereof, as to leaven their Hearts and Souls, with it's Savoury and Soul refreſhing vertue, that they may be awakened and alarmed to beſtir themſelves, to make their Calling and Election ſure,
+<pb facs="tcp:33251:3"/>while it is called to Day; as the afore-mentioned De<g ref="char:EOLhyphen"/>ceaſed Perſon had done. There are Subjoyned ſome Teſti<g ref="char:EOLhyphen"/>monies, of the more ſerious and ſenſible Children; concerning their Deceaſed Guardian, which I know will be Servicable where they come, eſpecially amongſt young ones, and may alſo be of ſome uſe to ſome Teachers and Inſtructers of Children. The unpreju<g ref="char:EOLhyphen"/>diced and Impartial Reader may feel and ſavour the Power of Truth, even in theſe Childrens Teſtimonies, who are but young in Years, neither can it be in any probable manner ſuppoſed, that they could frame ſuch things by their own acquired Abilities, but muſt with me confeſs that it is the Lords work; and who can ſtop it, or who can ſhut when the Lord opens; and how can we ſit ſilent, and not invite others to come and ſhare with us of that Heavenly Food the Father is pleaſed to hand forth unto us, and that in a plentiful manner, for which I render and return, the Praiſe the Honour, and the Renown of all, unto Him who is Worthy, God Bleſſed for ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>A. PATERSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb n="1" facs="tcp:33251:3"/>
+            <head>THE TESTIMONY OF <hi>Iohn Matern,</hi> &amp;c.</head>
+            <p>I Cannot but Praiſe and Magnifie the Lord our God, who in the abundance of his Love and tender Mercies, hath oftentimes, (even to this very day) Graciouſly &amp; Powerfully viſited my Soul with the Day-ſpring from on high, and hath livingly Refreſhed my Soul, with many others in our Family, who in Sincerity of Heart and Mind, in his Fear and Dread, have quietly and patiently waited for his Loving, Glorious, and Powerful ap<g ref="char:EOLhyphen"/>pearance; more than they that watch for the Mor<g ref="char:EOLhyphen"/>ning; O how hath he often broken in upon our Hearts, with his Holy, Heavenly, Almighty Pow<g ref="char:EOLhyphen"/>er, and hath tendered our Spirits before him, that in the ſence of his overcoming, and quickning Power, I have been conſtrained to Speak forth his Praiſes, even admiring his goodneſs and mercies unto my Soul, who when I was a Stranger to his Hea<g ref="char:EOLhyphen"/>venly Truth, going aſtray like a loſt Sheep without a Shepherd, not knowing the way to his Bleſſed
+<pb n="2" facs="tcp:33251:4"/>Fold, and to the Paſtures of Life, where he makes his flock to reſt at noon, watering and refreſhing them with the Water of Life, he was pleaſed in his everlaſting mercy, and endleſs goodneſs to follow me, as the good Shepherd ſeeking that which was loſt, and not giving over, till he found me wan<g ref="char:EOLhyphen"/>diring from Mountain to Hill, and from Hill to Mountain, dry, barren and unfruitful in the know<g ref="char:EOLhyphen"/>ledge of our Lord and Saviour <hi>Jeſus Chriſt;</hi> I ſay, the Lord in his everlaſting Love, and tender Bowels of compaſſion followed me, and found me, reveal<g ref="char:EOLhyphen"/>ing himſelf unto me in my loſt and undone State and Condition, not knowing whither to go, or where to reſt, till he opened and enlightned the Eyes of my mind, in and through his Heavenly Light, which he commanded to ſhine out of dark<g ref="char:EOLhyphen"/>neſs, by which I came to ſee and to know my ſelf, and him who I had often pierced with my Sins and Iniquities, unto which the enemy of my Soul did lead me Captive at his will, till the good Shepherd and Biſhop of my Soul did unſtop my Ear, that I could hear his voice and knockings at the door of my Heart: Yea, in and through his Heavenly Al<g ref="char:EOLhyphen"/>mighty Power begot in me a willingneſs to forſake the Evil of my wayes; and to deny my former Teachers and Leaders that cauſed me to Err from his Holy Heavenly word of Truth, which was, and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nigh in the Heart, and in the Mouth, and directed me to outward things; ſeeking the Kingdom of God and his Righteouſneſs, which was to be revealed within, not in outward obſervances and Ceremo<g ref="char:EOLhyphen"/>nyes,
+<pb n="3" facs="tcp:33251:4"/>one crying, loe here, the other loe there<g ref="char:punc">▪</g> leading away from the Principle of Life and Truth in the inward parts, by which my Soul ſhould have been quickened and made alive unto God<g ref="char:punc">▪</g> Thence it came to paſs, that even in the ſtricteſt obſervation of ſuch things as I was directed unto, having a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l for God, but not according to the knowledge of God, that I my ſelf alſo directed others to the ſa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, when according to the wiſdom of Man, and ac<g ref="char:EOLhyphen"/>quired natural Learning in <hi>Colladges,</hi> where I was bred up, I had got Learning, intending to be a Prieſt, a guide for the Blind, a Light to them which are in Darkneſs, an Inſtructer of the Fooliſh, a Teacher of Babes, as having got the form of the literal knowledge, but deſtitute of the Power, Life, and Spirit, without which I my ſelf was Blind and Fooliſh, Dead in Sins and Treſpaſſes, till it pleaſed the Lord to reveal his Son in me, in his holy, pure and Heavenly Light, by which I came to ſee out of Obſcurity and Darkneſs, which was in my Heart; and the vail of Iniquity which was over my Mind came to be rent by his Almighty Power, that ſo I came to behold him whom my Soul loved, not afar off, but nigh in me, in and through his Holy. Hea<g ref="char:EOLhyphen"/>venly, Quickning Spirit, by which my Soul was quickened and turned from Darkneſs to Light, and from Satan's Power to his pure and Holy Power, Grace and Truth in my inward parts, in and through which he taught and enabled me to deny Ungodlyneſs and worldly Luſts, and to live Soberly, Righteouſly and Godly in this pre<g ref="char:EOLhyphen"/>ſent
+<pb n="4" facs="tcp:33251:5"/>World; Glory and Honour be to his Name for evermore.</p>
+            <p>Now as the Lord God in his Love and Mercy, hath reached unto my Soul and redeemed me out of the Hands of my Enemies through the power of his ſtrength: he alſo made me willing to deny my ſelf every way and reſpect, as to out ward Honour and Preferment, which I could have enjoyed, if I would have conformed my ſelf to their way, and Worſhip, and vain cuſtoms and manners, in life and converſa<g ref="char:EOLhyphen"/>tion: but the fears and dread of the Lord being upon my Heart, I could no longer conform my ſelf unto them, but I freely gave over my <hi>School-office</hi> and imployment in Teaching Children, truſting in the Lord, he would not leave me and forſake me, if I did faithfully follow him in the Regeneration, which Work I felt begun upon my Soul in and through his Holy Heavenly Spirit of Grace, and Truth ma<g ref="char:EOLhyphen"/>nifeſted within me, becauſe of which I counted all my former knowledge and Honour as Dung and Droſs, for the excellency of the Truth and know<g ref="char:EOLhyphen"/>ledge of my Lord and Saviour <hi>Jeſus Chriſt,</hi> whoſe power I felt Operating in me, to deſtroy the Works of the Devil, to ſerve him in Holineſs and Righte<g ref="char:EOLhyphen"/>ouſneſs, according to the meaſure of Grace which he had given me, and enabled me withal. And ſee<g ref="char:EOLhyphen"/>ing my ſelf with ſome others, were like a <hi>Pelicane</hi> in the <hi>Wilderneſs, and as a Sparrow alone upon the Houſe top,</hi> ſojourning in <hi>Meſech</hi> and <hi>dwelling in the Tents of Kedar, amongſt a Crooked and Perverſe Genera<g ref="char:EOLhyphen"/>tion,</hi> covered with Groſe Darkneſs, hating the
+<pb n="5" facs="tcp:33251:5"/>peaceable way of the Lord, which according to that ability and knowledge I had then in the Lord, I made known to them, the Lord raiſed a deſire in my Father-in-law, who was a Prieſt to go out from amongſt them, and to go to the People of the Lord which he had Raiſed, Gathered, and Choſen for himſelf in <hi>England,</hi> to enjoy his Holy Living, Powerful preſence in their Meetings, and to partake of the quickning and refreſhing vertue of the Life and Love of the Lord in his Light, where the Saints Communion ſtands.</p>
+            <p>And as ſoon as he made it known to us, his Wife and Children, we found the ſame willingneſs, and freedom alſo in us to go out from our Fathers Houſe, and Kindred, not conſulting with Fleſh and Bloud what would become of us: But being freely re<g ref="char:EOLhyphen"/>ſigned and given up into the will of the Lord to diſ<g ref="char:EOLhyphen"/>poſe of us as he pleaſed, we choſe rather to ſuffer afflictions with the People of God, and to undergo all Tryals and Exerciſes which the Lord might ſuffer to come upon Them and Us, then to enjoy the plea<g ref="char:EOLhyphen"/>ſures of Sin, and Vanities of this World for a Seaſon.</p>
+            <p>And after we had made known our Deſire and Intent to ſome of our Deareſt Friends, which ſe<g ref="char:EOLhyphen"/>veral times did Write to us on the behalf of Truth, and we underſtood that they were willing to re<g ref="char:EOLhyphen"/>ceive us in the Love of the Lord, we left all for the love of Truth, and went away to ſave our ſelves from that Perverſe Generation; in all our Journey the Lord was with us, and brought us ſafe and well, with Joy and Gladneſs of our Souls, to his Beloved
+<pb n="6" facs="tcp:33251:6"/>People here in <hi>England,</hi> where I now have been theſe ſix years employed according to the Lord's, good will and providence amongſt tender Children, to inſtruct them in Languages, and other neceſſary Sciences appertaining to this outward Life. What troubles and exerciſes within and without I have met withal, I willingly paſs by, as being light and momentary, in compariſon of that inward comfort &amp; bleſſing of my Soul which I have received of the Lord.</p>
+            <p>For he in his endleſs Love and Mercy hath in a very great meaſure ſatisfied the Travail of my Soul, and anſwered the earneſt deſires and breathing of my Spirit for the Children of our Family, that he in his goodneſs would be pleaſed to appear unto their Souls, and to manifeſt himſelf in his Holy E<g ref="char:EOLhyphen"/>verlaſting Power, by which they might feel their Hearts melted, tendered, and broken before him, the Almighty God their Creatour, to Fear and Dread him in their Youth, that at length that rough and perverſe, diſobedient and ſtubborn Spirit, which reigned in ſome of them, to the grief and ſorrow of our Hearts, might be wrought out, and a meek, low, and humble Spirit might be created in them, through the Spirit of our Lord <hi>Jeſus Chriſt,</hi> which we alſo in the Lord's time have ſeen brought to paſs, in and through the Almighty, Heavenly, Bleſſed appearance, and powerful ope<g ref="char:EOLhyphen"/>peration of his Heavenly Spirit in our Family-mee<g ref="char:EOLhyphen"/>tings, whereof we have formerly born our Teſti<g ref="char:EOLhyphen"/>mony, and do bear the ſame at this preſent time, that the Power of the Lord is ſtill ſelf and expe<g ref="char:EOLhyphen"/>rienced
+<pb n="7" facs="tcp:33251:6"/>in and amongſt us, in our Meetings; O the Glory of that firſt great and notable day of the Bleſſed, Glorious, and powerful appearance of the Lord God, in and amongſt the little ones of our Family! The Remembrance whereof makes glad my heart, and rejoyces my Spirit, bleſſed be the Name of the Lord forevermore; we cannot be ſtill, but are conſtrained in his Love, which he hath ſhed abroad in our Hearts, by the Holy Spirit which is given unto us, but ſpeak well of his Name, be<g ref="char:EOLhyphen"/>cauſe of the Saviour of his Life, which we ſtill ſeel in the midſt of us.</p>
+            <p>For the Lord hath not been with us as a Stranger, that ſtays but for a night, but we can ſay it of a truth, that he hath hitherto made his abode with us, the bleſſed effect upon the Hearts and Spirits of many Witneſſes confirmed it. For inſtead of the thorn comes up the Fir-tree, and inſtead of the Pryer, comes up the Mir-tree, in as many as have Subjected their Souls unto the power of God, bear<g ref="char:EOLhyphen"/>ing Fruits of Sobriety, Righteouſneſs, Meekneſs and Godlineſs, in and through the Bleſſed Opera<g ref="char:EOLhyphen"/>tion of his Holy Spirit, which he hath bleſſedly pou<g ref="char:EOLhyphen"/>red forth, and is pouring forth upon them, to the Glory and Honour of his name, and for an Everlaſt<g ref="char:EOLhyphen"/>ing Sign that ſhall not be cut off. Now the Lord hath been and is gracious unto our Souls, and in his Grace and Love he daily renews his goodneſs unto us, manifeſting himſelf in his Love, Life and Power, when we meet together in his Holy, Heavenly Fear. O how doth he ſhed abroad his Love in our
+<pb n="8" facs="tcp:33251:7"/>Hearts! O how doth he receive our Spirits, that many times we are even Raviſhed with his Love, and ſo filled with his Power, that our Cups are made to overflow with Praiſes and Thankſgivings unto the Lord.</p>
+            <p>The deſire of my Soul is, that I and every one of us, that have taſted of the good Word, and Power of the World to come, by which we witneſs, our Hearts, and Minds in ſome meaſure changed, in<g ref="char:EOLhyphen"/>to the Holy and Righteous Image of the Son of God, who is the Light and Life of our Souls, may never forget it, nor give him any occaſion to Withdraw his Love and Mercy from us, but that his Holy and bleſſed Work of Regeneration, and Renovation of our minde, as it is begun by his Holy and Glo<g ref="char:EOLhyphen"/>lious Power; it alſo may be carried on by the ſame, that daily we may Witneſs an increaſe with the in<g ref="char:EOLhyphen"/>creaſe of the Lord, and a thorow change in our inward Man, from Glory to Glory, as by the Spirit of the Lord, that thus his Praiſes may be perfected out of the Mouths of Babes and Sucklings, unto which he hath made known himſelf in his Heavenly Light and Life, Mercy and Power, Grace and Truth; by which many of them are come to know the things of God, and of his Spiritual Kingdom re<g ref="char:EOLhyphen"/>vealed within them, in his Holy power, Righte<g ref="char:EOLhyphen"/>ouſneſs, peace and joy in the Holy Ghoſt, which things are hid from the Wiſe and Prudent of this World, becauſe they hate and deſpiſe the Light of <hi>Jeſus Chriſt,</hi> in and through which alone they ſhould receive the true and Saving Knowledge of God, and
+<pb n="9" facs="tcp:33251:7"/>his Son <hi>Jeſus Chriſt</hi> whom to know is Life Eter<g ref="char:EOLhyphen"/>nal; wherein alſo the operating virtue of the Living Bloud of the Son of God, is onely effectu<g ref="char:EOLhyphen"/>ally felt, and Witneſſed, cleanſing away all Sin and Iniquity unto the ſaving of the Soul from the Wrath to come; that ſo an entrance may be adminſtred unto it abundantly, into the Everlaſting Kingdom of our Lord and Saviour <hi>Jeſus Chriſt,</hi> wherein the Righteous live with God, in unſpeakable Joy and full of Glory.</p>
+            <p>O that many of the young and tender ones here with us, may be kept in the Life and Virtue, Wiſ<g ref="char:EOLhyphen"/>dom and Power of the Lord God, to the confuſion of many in their Earthly Wiſdom, and the con<g ref="char:EOLhyphen"/>verſion of them, from their Evil wayes, O thou <hi>Shepherd of Iſrael</hi> lead them on Gently and Ten<g ref="char:EOLhyphen"/>derly, and go before them out and in, as a <hi>Shepherd</hi> goes before his Flock, and lead them to the Green Paſtures of Life, that Feeding there they may have Light and Life in them, and that, they may have it more abundantly, and by it become an Eternal Excellency to thee, and a Joy of many Generations.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>O Lord I humbly beſeech thee, Bleſs our God<g ref="char:EOLhyphen"/>ly undertakings, and indue us with thy Hea<g ref="char:EOLhyphen"/>venly Wiſdom, that we may bring them up in the nurture and admonition of thee! O Bleſs this Family here, and all the Families of thine inheritance every where, with Heavenly and Spiritual Bleſ<g ref="char:EOLhyphen"/>ſings in thy Son Chriſt Ieſus! O Lord keep, keep and preſerve me, &amp; every one of us, that have taſted of
+<pb n="10" facs="tcp:33251:8"/>the ſweet Love and Heavenly Power, by which our Souls have been reached, convinced and converted, faithful unto thy ſelf, keep us always in a Living Sence of thy manifold mercies and tender Love to us, that we may live in thy holy Fear, and never re<g ref="char:EOLhyphen"/>turn to folly any more, but walk low and humble with thee our God, and tender Father in Chriſt Ie<g ref="char:EOLhyphen"/>ſus. O Lord eſtabliſh our Hearts with thytruth, that we may never depart from thee; Seaſon our Souls with thy Holy Powerful Word of Grace, that all our Words and Works may be Savoury, and good for the uſe of Edifying; ſtrengthen our inward man with might by thy Spirit, that under thy banner of Love we may fight the good fight of faith, and keep a good Conſcience, and finiſh our courſe with joy, and receive the Crown of Righteouſneſs, which is laid up for all them that love thy appearance in thy Heavenly Light. So, O Lord, for all thy goodneſs and mercys and benefits, both Temporal and Spiritual beſtow<g ref="char:EOLhyphen"/>ed upon me and our Family, my Soul praiſes and glorifies, exaltes and magnifies thy holy Name, Glory and Honour, Wiſdom and Power, be unto thee, who art God over all, bleſſed for ever and for evermore,</hi> Amen.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Edmonton</hi> 
+                        <date>
+                           <hi>the</hi> 24th. <hi>of the</hi> 6 <hi>Month</hi> 1680.</date>
+                     </dateline>
+                     <signed>J. Matoi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>He died about</hi> 7 <hi>Days after that he brought in his</hi> Teſtimony, <hi>and cauſed it to be read amongſt the</hi> Scholars.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb n="11" facs="tcp:33251:8"/>
+         </div>
+         <div type="letter">
+            <head>My moſt Loving and Endeared Friend and Colleague <hi>John Matern,</hi> being taken ill of a <hi>Feaver</hi> the <hi>24th.</hi> of the <hi>6</hi> Month <hi>80.</hi> was called out of this Life the <hi>1ſt.</hi> day of the <hi>7</hi> Month, a little after the <hi>7</hi> hour, in the Afternoon.</head>
+            <p>THis is my <hi>Teſtimony</hi> and belief concerning him, that he is entred into everlaſting favour with the Lord, who in his life-time much regarded the Honour of his Maker, and it was the delight of his Soul to be imployed either amongſt young or old in his Fathers buſineſs; it was his hearts delight and Souls great joy, to have the oppertunity to benefit others. He was a Man very much Dead to the World, the ſenſe whereof I felt Livingly upon my Spirit at preſent, and I hope the com<g ref="char:EOLhyphen"/>fortable fellowſhip and Heart-gladding ſociety, that I have had with him for theſe three years and more, and that wherein we have mutually enjoyed in one another, ſhall never be forgotten by me, but ſhall be matter of Praiſe and Thankſgiving to the God of true unity, who was pleaſed to bleſs us together, and work up our Spirits into an oneneſs, ſo that I may truly ſay, my Dear Friend (to my know<g ref="char:EOLhyphen"/>ledge) was never exerciſed one way or another, with ſorrow or grief, but my Soul was engaged to ſympathize with him, and to feel the weight of his Burthens, and then we both breathed together to
+<pb n="12" facs="tcp:33251:9"/>the God of Grace, whoſe Mercies are infinite till he in his tender Bowels of compaſſion was pleaſed to afford eaſe and Relief. And as in his Life-time we were Indiſolveably knit together in our Spirits, ſo that at his Death our Loves were not abated, but much more Large then ever.</p>
+            <p>About Four hours before he departed, we kept our Family Meeting in the room where he Lay, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being his deſire, and there Lovingly together, we enjoyed one another in the Lord, to the melting and tendring of (I believe) the hearts of all that were preſent; And in the time of the Meeting, he was filled with Divine praiſes and Heavenly Hymns and a Heavenly preſence was felt ſupporting his Spirit all the time of his Sickneſs, but more eſpe<g ref="char:EOLhyphen"/>cially during the time of the Meeting, ſo that he was firſt exerciſed in Singing Praiſes to the Lord, and in magnifying his great Power, evidenced in him<g ref="char:EOLhyphen"/>ſelf, and in this Family; his cryes were ſtrong tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord might carry on his Bleſſed work begun in this Family, and he beſought the Lord to proſ<g ref="char:EOLhyphen"/>per his truth daily more and more, every where till all were Subjected thereunto, which he declared ſhould come to paſs, he likewiſe confeſſed the many Singular favours he had Partaken of in this Eamily and as it were with regret bemoaned his abſence from it ſo long, that he ſhould have ſo long wander<g ref="char:EOLhyphen"/>ed not knowing his place and ſervice in the Body When the Children were all ſitting round about him in the Meeting, his Heart was open, and large towards them, in exhorting and beſeeching
+<pb n="13" facs="tcp:33251:9"/>of them, to perſevere and go on in the name and au<g ref="char:EOLhyphen"/>thority of the mighty God, and that they might be faithful unto him in their meaſures, and not to deſpiſe the day of ſmall things; but as they were faithful in a little, more ſhould be added; his Mouth and Heart was full of Praiſes to the Higheſt for many particular mercies, but more eſpecially that he had received the knowledge of the everlaſting Truth; and had walked in it for ſome time perfectly and uprightly, in his meaſure, for which at that time he declared he had the <hi>Teſtimony</hi> of a good Conſci<g ref="char:EOLhyphen"/>ence, and was entred into Eternal Peace with the Lord, which I do firmly believe, and without doubting, am perſwaded that it is true; and it is the deſire of my Heart, that I may ſo walk in my Generation, that in the end I may enjoy but ſuch a comfortable Death as he did.</p>
+            <p>It was as hard a Tryal as ever I met with, I may ſay, which I deſire may be ſanctified of the Lord; but now am well ſatisfied that he is gone into ever<g ref="char:EOLhyphen"/>laſting bliſs, to be with the Lord for ever.</p>
+            <p>And it is the belief of my Heart, that when e<g ref="char:EOLhyphen"/>ver it ſhall pleaſe the Lord to call me out of the body, that as we were lovely together in this Life, that forever we ſhall be Ioyned, (as I am preſerved faithful,) and that in a more nearneſs then could be enjoyed here, we ſhall ſing Praiſes to God and the Lamb for ever. So in this belief, I reſt my ſelf contented with my condition at preſent.</p>
+            <closer>
+               <dateline>
+                  <hi>Edmonton the</hi> 2 <hi>of</hi> 
+                  <date>
+                     <hi>the</hi> 7 <hi>Month,</hi> 1680.</date>
+               </dateline>
+               <signed>A. Paterſon.</signed>
+            </closer>
+            <pb n="14" facs="tcp:33251:10"/>
+         </div>
+         <div type="letter">
+            <p>DEar <hi>John Matern</hi> Died not as a Fool Dieth, that feared not the Living God, but his Heart was bent to ſeek after a City, whoſe Builder and Maker is God; He made his Calling and Election ſure, and a good Savour he has left behind him, and his Works follow him; he was a diligent Man in his Vocation, and very zealous for Gods Glory, his aim was at Eternity, and through the mercy of the Lord he miſſed not of it; ſo that when he lay on his Death-Bed, the Glory of the Lord over-ſhadowed him, and his Innocent cryes were unto him, that all might be kept faithful that profeſſed his name; and more particularly, that both ſmall and great in our Family might be preſerved to the Lord, and his Heavenly Sounds of Praiſes to God, with a raiſed up voice by the Aſſiſtance of the Power and Glory of God upon his Spirit.</p>
+            <p>I believe I ſhall never forget, me thinks mine Ears are full of them ſtill; hearing the ſound of that ſweet Harmonious melody, with a raiſed up voice, when otherwiſe, if Gods power had not enabled him, confeſſed he was ſcarce able to move his Tongue, he have Heavenly Exhorations to the young ones, to perſevere and go on in obedience to the Lord, in that truth they had received; and encouraged his honeſt and faithful companion, and aſſiſtant to go on in the work of the Lord. I dearly loved him becauſe of his ſimplicity and lowlineſs of Mind, his faithfulneſs and diligence in his place, and becauſe his Heavenly care was intirely to do good; when I remember his dear ſimplicity, how like an Innocent
+<pb n="15" facs="tcp:33251:10"/>Child he was in his place, my Soul breaks within me, and I am melted even into great tenderneſs and love unto him, more then can be uttered; Tongue cannot utter, nor Pen ſet down the excel<g ref="char:EOLhyphen"/>lencie and eminency of this love, which is ſo over<g ref="char:EOLhyphen"/>comming, he was a very wiſe and learned man, as to outward Learning; but how he denied himſelf, and how humbly he behaved himſelf, and how free he was from priding himſelf, becauſe of his Great parts and natural endowments as a man, I can ſay according to my Judgment he went before many; well he is gone, and in the name of the Lord he bleſ<g ref="char:EOLhyphen"/>ſed the Family he had lived in, and praiſed God that he had placed him in it, ſuch bleſſed things, he ac<g ref="char:EOLhyphen"/>knowledged he had been partaker of in it, and after he had done his work, he went to his Father, even as an Innocent Lamb unconcerned about his Death, as fearing it not, but on the contrary praiſing God, for the certain truſt he had in his Power, telling us how certain he was of Eternal Salvation; the Glory of the Lords power reſted upon his Spirit, and ſweetly did he give up the Ghoſt.</p>
+            <p>O bleſſed, art thou my dear companion, my Soul loved thee, and embraced thee, and I love thee ſtill, and thy life is with us, I pray God as that ſin<g ref="char:EOLhyphen"/>cerity that was in three, may remain in Thouſands, and Ten Thouſands, that Gods Hoſt in this day may be innumerable, <hi>Amen.</hi>
+            </p>
+            <p>God is with us, and we know though we may be taken out of this Life according to his pleaſure, yet his Truth and Faithfulneſs, departs not from the
+<pb n="16" facs="tcp:33251:11"/>Families of his faithful ones, who can truly ſay, they ſeek his ſweet Face and countenance, and Glory in all things; and we can ſay that the ſecret hand of the Lord, works not againſt us, but for us, Oh! my Soul be glad in the God of thy Mercies, everlaſting praiſes be to thy name for evermore.</p>
+            <closer>
+               <dateline>
+                  <hi>Edmonton</hi> 
+                  <date> the 8th. <hi>of the</hi> 7th. <hi>Month,</hi> 1680.</date>
+               </dateline>
+               <signed>C. T.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>DEar Friends and Children, but eſpecially you Children of this Family, it is upon me to re<g ref="char:EOLhyphen"/>late ſomething unto you of my exerciſe, which I have gone through ſince the Lord did put it into our Hearts, to take upon us the exerciſe of Educa<g ref="char:EOLhyphen"/>ting of Children; and indeed the very firſt ſtep into it was with fear and trembling, but though I was very tender, the Lord hath called me to a bleſſed Work, and had bleſſedly aſſiſted us by his mighty power and out-ſtretched Arm to this very day. O the days of Sighing and Mourning that I have gone through amongſt diſorderly Servants and Children, that ſometimes I did not well know how it was with me, or whether I went backwards or forwards in my condition, O the travel the Travel that was in my way to <hi>Zion,</hi> that indeed ſome times I was almoſt ready to diſpair; but it did pleaſe the Lord ſometimes, to ariſe in his mighty power to ſtreng<g ref="char:EOLhyphen"/>then, and encourage, and uphold me in his bleſſed work, and when his Glorious Light ſhone round
+<pb n="17" facs="tcp:33251:11"/>encouraged to walk in his way, and then I thought I ſhould run ſwiftly; when Exerciſes came again, and when the Fogs and Miſts did ariſe again, and the Sun was Darkened again that I could not ſee which way to go; then did I crie unto the Lord, that he would be pleaſed to keep me in the meaſure of his bleſſed Truth, for I ſaid in my Heart, that it ſhould be my reaſolution, that I would never turn back again to folly; Thus I paſſed on through much Difficulty, and the Lord did mightily uphold me, but ſometimes I knew it not; and indeed when I have beheld others Eating of the Dainties of Gods Houſe, I have been ready to murmure, and ſay, O Lord why do I fare ſo hardly, my meat being bitter Herbs, and of an unſavoury taſte; Thus I Travelled in Sorrow, through a long Winter, and in the Lords bleſſed time, he was pleaſed to ariſe with healing under his Wings, and did ſcatter the Clouds, by his mighty Power, and out-ſtretched Arm, and what we have been Travaling and Labouring for a<g ref="char:EOLhyphen"/>mongſt Children; we have ſeen a bleſſed increaſe, and I can truly ſay it is God's Heavenly Intereſt; Praiſed be to his name for evermore.</p>
+            <p>For he hath made his work pleaſurable, eaſy, and delightful unto us, for his arm is about us day and night, and his Sun is ariſen upon us, and our days are very ſweet unto us, and we can look back upon our exerciſes and dark places, where we have ſtuck and behold them with delight, for the Lord hath been, and is abundantly kind unto us, praiſes be to his name for ever more.</p>
+            <pb n="18" facs="tcp:33251:12"/>
+            <p>O a bleſſed time, and happy it is for all them that fear the Lord, for thou O Lord haſt made our days, ſweet, and thy bleſſed work eaſy unto us, for we can ſing of thy mercies all the day long, and behold the work of thy own right hand to proſper, and the fruits of our Labours to flouriſh as a Roſe, and we can glory in thee for evermore; and when the work of our day is pleaſently ſpent, in the fear of the Lord at evening tide, when <hi>Shiloh's Brook runs ſoftly,</hi> as it is in our wonted practice, we do aſſem<g ref="char:EOLhyphen"/>ble together before the Lord, with our Family and Children, to magnifie his power, and Speak well of his name, and to crave a bleſſing upon us, and his tender Plants, and then he ariſeth in his mighty power, and his bedewings deſcend, and his fatneſs drops from Heaven, and over-comes our hearts, and enliveneth our Souls and Bodies, that every member may magnifie his Holy Name; O bleſſed day indeed, can we deſire more then we have, or ask more then we receive, Oh! no, no, the Lord hath been abun<g ref="char:EOLhyphen"/>dantly kind, and hath filled our hearts with his Heavenly Treaſure; for now we can gather Grapes off our own Vines, and they are Pleaſant to our taſte; O what ſhall we render unto thee O Lord, for thou art worthy of all Honour and Praiſe, and with all that we have and are; We give the Glory unto thee for ever and evermore.</p>
+            <p>Now I have a <hi>Teſtimony</hi> lives in my Heart, for dear <hi>John Matern</hi> whom the Lord hath taken away, a dear Man indeed, one that truly feared the Lord,
+<pb n="19" facs="tcp:33251:12"/>and was a faithful Steward; and when he came to lie upon his Death Bed, he had Reaped an hundred fold, and he brought in his increaſe with much re<g ref="char:EOLhyphen"/>joycing into the ſtore-houſe of the Lord, yea with great joy and reioycing, for the Lord imbraced him, and kiſſed him with his lips, this was the laſt day of his appointed time, and I my ſelf was pretty much with him, he was a weak man as he confeſſed, and ſcarce able to ſtir his Tongue, but the Glory of the Lord ſhone round about him, and did raiſe up his pure life, that he lay praiſing the Lord, and the har<g ref="char:EOLhyphen"/>mony of Heaven was in his Mouth, that his weak<g ref="char:EOLhyphen"/>neſs was preſſed down, and the ſting of Death not re<g ref="char:EOLhyphen"/>garded; we had a ſweet meeting with him, as other <hi>Teſtimonies</hi> will further relate, with many of the Children, and a part of the Family, ſo when he found himſelf almoſt ſpent with the bleſſed Exerciſe that was upon him, he held up his hands, and we cauſed them to depart the Room, ſo then he lay ſtill and Slumbered a little time; and when he ſtirred I went to him, he deſired me not to ſpeak, except to praiſe and magnifie the Lord; but I asked him if he knew me, and he ſmiled upon me, &amp; ſaid <hi>yea;</hi> and I ſaid thou lyeſt ſweetly; he again anſwered <hi>yea,</hi> as I remember theſe were the laſt words he Spake, ſo he lay a little time, and went ſweetly away.</p>
+            <closer>
+               <signed>Frances Taylor.</signed>
+            </closer>
+            <pb n="20" facs="tcp:33251:13"/>
+         </div>
+         <div type="letter">
+            <head>My <hi>Teſtimony</hi> Concerning my lately deceaſed Maſter <hi>John Matern.</hi>
+            </head>
+            <p>HE was a man that truly feared the Lord, and was an inſtrument in his hand in his day, for the help of others. He laboured daily for us his Scho<g ref="char:EOLhyphen"/>lars, both for our Souls and Bodies; he taught us with diligence, that we might not fruſtrate the in<g ref="char:EOLhyphen"/>tent of our comming to the School, as to our learn<g ref="char:EOLhyphen"/>ing, and prayed continually to the Lord, that we might be Edified as to our inward condition.</p>
+            <p>O what a bleſſed end he made!</p>
+            <p>O he was full of Praiſes and Songs of joy to the Lord. And I am ſatisfied that his reward was the greater, for his labour and prayers for us; he is with the Lord, and bleſſed of him for ever.</p>
+            <closer>
+               <dateline>
+                  <date>The 10th. of the 7th. Month, <hi>1680.</hi>
+                  </date>
+               </dateline>
+               <signed>William Penington. 15 years old.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>My <hi>Teſtimony</hi> concerning my dear Maſter <hi>John Matern,</hi> is as followeth.</head>
+            <p>HE was a juſt and an upright man in his genera<g ref="char:EOLhyphen"/>ration, fearing God and hating evil, he che<g ref="char:EOLhyphen"/>riſhed the good, and puriſhed the evil in whomſo<g ref="char:EOLhyphen"/>ever of his Schollars he found it, without reſpect of
+<pb n="21" facs="tcp:33251:13"/>Perſons, which cauſed him on his death-bed to en<g ref="char:EOLhyphen"/>joy peace unutterable.</p>
+            <p>He hath fought the good fight of faith, and kept his Garments clean from the ſpots of this World, &amp; is entered into reſt and joy with his maker for ever, which no man can deprive him of.</p>
+            <closer>
+               <signed>Edward Penington. 13 years old.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>This <hi>Teſtimony</hi> do I bear for my Teacher <hi>John Matern.</hi>
+            </head>
+            <p>THat he was a juſt and an upright man, one that feared God and eſchewed evil, in his day, and generation, and the Lord was with him in his do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, and he did that which was right in the ſight of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord, and the Lord ſupported him, and carried <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im through all Tryals, and he had done the Lord's work faithfully in his day and age, and now he is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one to his reſt prepared for him in <hi>Jeſus Chriſt,</hi> he <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath been ſaying up a treaſure, and now he enjoys it, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath heard the joyfull ſentence, <hi>well done thou good <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd faithful Servant, thou haſt been faithful in a few <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings, I will make thee Ruler over much, enter thou into be joy of the Lord.</hi> So now he is entred into the joy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his Lord, and is happy for ever, and magnified be is name for redeeming him out of the Jawes of Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, and I wiſh all may make ſuch an end as he did,
+<pb n="22" facs="tcp:33251:14"/>then will they be bleſſed of the Lord to all eternity, world without end.</p>
+            <closer>
+               <signed>John Crouch. about the age of 12 years.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>I have a <hi>Teſtimony</hi> concerning my dear <hi>School-maſter John Matern,</hi> Who is de<g ref="char:EOLhyphen"/>parted out of this Life, and lives with God for evermore.</head>
+            <p>OH he was a bleſſed Man, one that I believe in his meaſure feared God and eſchewed evil; as <hi>Job</hi> did, Oh he was a good Man, I believe the fear of the Lord was always before his Eyes; Oh I can ſay he is in Heaven with the Lord, Oh he is in a better place then we are yet in, for he is with God the Father, where the fulneſs of all joy and comfort is; Oh that we may all be as faithful to the Lord in our places as he was, and then God will gather us to himſelf, and then we ſhall be bleſſed of him and receive the ſentence; <hi>Well done thou good and faith<g ref="char:EOLhyphen"/>ful Servant, thou haſt been faithful in a few things, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will make thee ruler over many things, enter thou int<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the joy of the Lord,</hi> Oh it is a bleſſed ſentence to al<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them that receive it, as he hath; Oh how ſorry h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſed to be if he ſaw any of us do amiſs, I can ſay i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would very much grieve him, but when he ſaw an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of us do well; Oh he would be glad, and incourag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us to go on in the way of the Lord, ſo I cannot bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:33251:14"/>give him the Glory, the Honour, and the Praiſe both now for ever and evermore.</p>
+            <closer>
+               <signed>Ezekiel Wooley, Jun. 11 years old.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>This I have to Speak to the Praiſe of the Lord God and his Truth, as concerning our dear Teacher <hi>John Matern.</hi>
+            </head>
+            <p>HE was a man that feared the Lord and walked in his path, and I can truly ſay the Lord was with him, and the laſt day that he lived, he lived to the praiſe of his name, and it was his endeavour and intent as long as he lived, to fear the Lord his maker, and the name of the Lord was praiſed by him, as long as he breathed in this World.</p>
+            <p>O that all People would ariſe for the name of the Lord, that none may ſtick in the deep pit of Dark<g ref="char:EOLhyphen"/>neſs, but that they may come and fear the Lord, that none may ſtay behind, but come on with the Lord's people, and walk on hand in hand with them, and ſo preſs forward to the mark <hi>Chriſt Jeſus,</hi> as this man did, who is gone to his reſt in peace.</p>
+            <p>O Lord it hath pleaſed thee to take away one of thy Servants who ſerved thee in uprightneſs of heart, O Lord I humbly of thy Children, thy preſence <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s with us at this time, and Oh pluck up the root of iniquity, and throw down the great Tree, of Wickedneſs, that is growing in the hearts of Peo<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>,
+<pb n="24" facs="tcp:33251:15"/>that thy work may proſper, and the light of thy countenance may ſhine through the Nations.</p>
+            <p>Oh raiſe up yet more Witneſſes for thy ſelf; tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all may fall down before thee, and magnifie thy name who art God over all bleſſed for evermore.</p>
+            <closer>
+               <signed>William Looſvelt 12 years old.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>O Lord thy love is unſpeakable, when th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſcattereſt the Clouds and makeſt the Ram <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſcend as upon the tender graſs, and viſiteſt us with the day Spring from on high, then are we con<g ref="char:EOLhyphen"/>ſtrained to praiſe thy name; Oh thou refreſheſt u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from time to time, for we have none in Heaven bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee, nor in the Earth in compariſon of thee; O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we have freſh encouragement to follow hard after thee; O thou haſt often broken our hearts befor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee the living God, and haſte cauſed abundance o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> melting tears and Soul-raviſhing gladneſs among us, and a remnant can ſay that one day in thy Court is better then a thouſand elſewhere, and it is better to be a door-keeper in thy houſe, then to dwell i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Tents of Wickedneſs; Oh Lord what ſhall w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay unto thee, or what ſhall we render unto thee fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy mercyes; for thy Arm of power hath been a<g ref="char:EOLhyphen"/>bout us to this very day.</p>
+            <p>Thy Hand is not ſlackened, nor thy Ear dull t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bear the Sighing of the needy, thou lookeſt dow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon them with an Eye of pity and compaſſion, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:33251:15" rendition="simple:additions"/>thy love is the ſame that ever it was unto thy Chil<g ref="char:EOLhyphen"/>dren, and thy all-ſeeing Eye is every where, and in every place to watch over them, who art the watch<g ref="char:EOLhyphen"/>man of <hi>Iſrael,</hi> who never ſlumbers nor ſleepeſt, but feedeſt thy ſheep, and makeſt them to lye down in the green paſtures of Life. O that when we depart out of this world, we may lay down our head in peace with thee, as the bleſſed man <hi>John Matern</hi> hath done who is deceaſed; Oh he is gone to his reſt<g ref="char:EOLhyphen"/>ing place, who was faithful to the end of his dayes; and when he had finiſhed his courſe in this world, the Lord took him into himſelf, Oh how pleaſantly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e lay upon his Bed, praiſing the Lord whom he ſer<g ref="char:EOLhyphen"/>ved in his lfie time, he made his Calling and Election ſure, and is at reſt with the Lord his maker, who aboured for our good every way, and is gone to a very pleaſant habitation, where he will have joy for ever.</p>
+            <closer>
+               <signed>Mary Taylor. 10 years old.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>This is my <hi>Teſtimony</hi> concerning my Dear Teacher <hi>John Matern.</hi>
+            </head>
+            <p>THat he was a man that feared God, with the up<g ref="char:EOLhyphen"/>rightneſs of his heart, and his greateſt Travel was to do the will of God, making it manifeſt a<g ref="char:EOLhyphen"/>mongſt us, and telling us what the Lord would have us to do, and exhorting us to leave off the evil of our doings &amp; to follow the Lord &amp; to fear him, and it was
+<pb n="26" facs="tcp:33251:16"/>his greateſt joy if he ſaw any of us bring forth a <hi>Teſti<g ref="char:EOLhyphen"/>mony</hi> for the Lord, O how would it refreſh him, yea that he could nor forbear but muſt praiſe the Lord before he went out of the Meeting, and if there were any that did grieve the Lord Spirits, and Rebel againſt him, then he would be ſo grieved and trou<g ref="char:EOLhyphen"/>bled, that he could ſcarce take his reſt upon his Bed, I can truly ſay that he was a man that ſought the well-fare of our Souls and Bodies too, and he taught us with all the might he had, and that faithfully, and if he found out a nearer way, he told it us, and if there be any that have not improved their time, I can truly ſay that the fault is theirs, and nor his, for he did as much as he could for us; and when he was upon his Death bed, he exhorted us to fear God; and he Praiſed and Glorified the God of Heaven, unto the laſt breath that he fetcht in this world, ſo that the Lord hath taken this good man out of this world, and he is gone to his reſt in peace, with the <hi>Lord Jeſus Chriſt,</hi> where is joy for ever and evermore.</p>
+            <closer>
+               <signed>Thomas Green. 16 years old.</signed>
+            </closer>
+            <pb n="27" facs="tcp:33251:16"/>
+         </div>
+         <div type="letter">
+            <head>This day the Spirit of the Lord giveth me utterance that I can bear a <hi>Teſtimony</hi> for my deceaſed Teacher <hi>John Matern.</hi>
+            </head>
+            <p>THis I can ſay of a truth, he was an upright man in his generation, ſerving God with his whole heart, he had a very great care that he might teach faithfully, that ſo he might not bring any guilt upon his conſcience; and moreover he had a great Travel in the Lord for us, who were under his tuition, that we who felt the Power of God in us, and had in ſome meaſure regenerated and changed us, that we might walk uprightly and according to the truth<g ref="char:punc">▪</g> he alſo had a Travel for them that had not felt the Power of God to change them, but were yet in re<g ref="char:EOLhyphen"/>bellion againſt God's Spirit, that they might come to feel themſelves in ſome meaſure changed, and his Travel was great for the proſperity of truth every where (and we whom he taught find a great want of him, but the Lord ſupplyeth it;) and this can I ſay for him, that the very ſame day about four hours before he Dyed, we had a meeting with him, where he being raiſed up by the Power of God, (though very weak in body, but of Perfect underſtanding) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e exhorted us even with a mighty Power that moſt, (I belive I may ſay all,) were broken, and tendered before the Lord; and all the while I was with him he did Sing Heavenly Praiſes unto the Lord, in the inward man, and dyed in the Faith of <hi>Chriſt Jeſus
+<pb n="28" facs="tcp:33251:17"/>the Son of God,</hi> and then his Soul aſcended up to the God of Heaven, and now he enjoys pleaſures with<g ref="char:EOLhyphen"/>out end, and at this time conſidering the manner of his Death, my Soul cannot but render to the God of Heaven, Glory and Dominion for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 13th. <hi>of the</hi> 7th. <hi>Month</hi> 1680.</date>
+               </dateline>
+               <signed>Philip Dymond. 14 years old.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A <hi>Teſtimony</hi> concerning my late Decenſed Maſter <hi>John Matern.</hi>
+            </head>
+            <p>HE was a man that feared the Lord, and wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very ſerviceable in his place, and I can trul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay he was a fit Inſtrument in the hand of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord, and taught us his Scholars with all the dili<g ref="char:EOLhyphen"/>gence as could well be expected; In his life time h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laboured through hardſhips that we might be educa<g ref="char:EOLhyphen"/>ted in the truth, as well as in other things. and believe he dyed in the Lord, and his reward fol<g ref="char:EOLhyphen"/>lows him; for aſſuredly the Lord did bleſs him, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will bleſs all others that lived as he did.</p>
+            <p>Oh that we may all walk as he did, in the wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Chriſt, and follow his ſteps for ever<g ref="char:punc">▪</g> I can ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with many more of my School-fellows that we ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a better Tutor then he was. When I hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he lay upon his ſick bed, many times I have cried the Lord, in my heart to raiſe him up again; but hath been the will of the Lord to take him awa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and now he is at peace to all eternity.</p>
+            <closer>
+               <signed>John Woolley. 10 years ol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+            </closer>
+            <pb n="29" facs="tcp:33251:17"/>
+         </div>
+         <div type="letter">
+            <head>This is my <hi>Teſtimony</hi> concerning our Dear Teacher <hi>John Matern,</hi> who is lately depar<g ref="char:EOLhyphen"/>ted out of this Earthly Tabernacle.</head>
+            <p>THat he was a righteous Man, walking upright<g ref="char:EOLhyphen"/>ly with the Lord his Maker and Creator; he was a man with whom the Lord was, both in his goings out, and commings in; this can I truly ſay in living experience: He was an adverſary to all manner of evil, but he cheriſhed the good as the apple of his Eye; wherefore I am ſenſible that he is departed in peace, and though I was not here at the day of his death, yet my Soul was ſenſible of the goodneſs of the Lord towards him on his Death-Bed; as praiſing and magnifying the name of the Lord; and now I am ſenſible he is at reſt and peace with the Lord his Maker and Creator, in that deſi<g ref="char:EOLhyphen"/>red Heaven, wherein never any unclean can ever enter.</p>
+            <p>This was the Lord pleaſed to put in my heart to Write concerning our dear and well beloved Teacher, who is departed, and entered into the bleſſed reſt with the God of our Fathers, <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Jacob,</hi> world without end.</p>
+            <closer>
+               <signed>John Butcher. 14 years old.</signed>
+            </closer>
+            <pb n="30" facs="tcp:33251:18"/>
+         </div>
+         <div type="letter">
+            <head>I have this to ſay for my Dear Teacher <hi>John Matern.</hi>
+            </head>
+            <p>HE was one that lived in the fear of the Lord; and when he lay upon his Death-Bed, he Glorified the Lord, and made a ſweet melody in his Soul; and at the preſent time we had a bleſſed Meeting, and the preſence of the Lord was amongſt us, and he alſo pleaſed the Lord, and made a hap<g ref="char:EOLhyphen"/>py end, for ſurely he made a Covenant with the Lord, and I am ſure he was filled with the preſence of the Lord; Oh, he was a bleſſed man indeed, he had made it manifeſt, for in his life-time it was his greatſt joy to ſee any of his <hi>Scholars</hi> grow up in the fear of the Lord; and if at any time he ſaw the enemy to prevail over any, he would with grief of heart admoniſh them to return, and repent, that they might find mercy with the Lord, and beſeech them to have a care leaſt the Enemy ſhould prevail again, he alſo was greatly exerciſed, if any of his <hi>Scholars</hi> did not mind their buſineſs and Learning, as to the outward, and would encourage them that minded the ſame, aſſuredly he Preached Righteouſ<g ref="char:EOLhyphen"/>neſs in his life and converſation, aſſuredly he hath made his calling &amp; election ſure, &amp; now he is at reſt with the Lord, for he hath left a good Savour be<g ref="char:EOLhyphen"/>hind him, and the rememberance of him is bleſſed, he is gone to the Lord, and is at peace with him, for ever and evermore.</p>
+            <closer>
+               <signed>Margaret Rouſe 12 years old.</signed>
+            </closer>
+            <pb n="31" facs="tcp:33251:18"/>
+         </div>
+         <div type="letter">
+            <head>This I have to ſay for my dear Teacher <hi>John Matern.</hi>
+            </head>
+            <p>THat he was an upright true honeſt man, one that feared God and eſchewed Evil, one that laboured for the good of the Souls of them that he taught, he taught them inward as well as outward knowledge; he was a man that ſpent himſelf much for the Lord, he was a true labourer in the Lord, and one that Preached his Holy name unto us, and made it known, but now he is gone out of this Body of Fleſh; O he hath laid down his Head in Peace with the Lord, and is at reſt with the higheſt in the Holy <hi>Jeruſalem,</hi> the City of the everlaſting God. I can truly ſay that he hath been much troubled when any of the Boyes had been diſorderly, and he would often exhort them to fear the Lord. O he was a Man that ſpent himſelf much for us, but now he is repayed for it; he would often cry unto the Lord for us, that we might all fear the Lord, from the leaſt to the greateſt, and the laſt day he lived he prai<g ref="char:EOLhyphen"/>ſed the Lord; and we had a Meeting in his Cham<g ref="char:EOLhyphen"/>ber which he deſired, and he did exhort us, and pray the Lord for us.</p>
+            <p>He was a righteous man, the Lord hath bleſſed him, bleſſed be his name for it. O how he would fight againſt the Devil, to the praiſe of the Lord, and honour of his name, in whom he truſted and had his life and beeing,</p>
+            <closer>
+               <signed>Thomas Hutſon 14 years old.</signed>
+            </closer>
+            <pb n="32" facs="tcp:33251:19"/>
+         </div>
+         <div type="letter">
+            <head>I have a few Lines to Write concerning my Dear Husband.</head>
+            <p>HE was an upright hearted man in his doings, he ſerved the Lord with all his Heart, and was faithful in his place to every one that he was concer<g ref="char:EOLhyphen"/>ned with, to do them good, and it was his greateſt delight to ſee truth proſper, eſpecialy amongſt the young ones, with whom he was concerned, it was his greateſt joy and ſatisfaction to ſee the Lords power breaking in upon them, ſo that he could not but Praiſe and Glorifie the Lord many a time for it, often upon his very Death-Bed he lay praiſing and glorifying of the Lord for his great mercies beſtowed upon him.</p>
+            <p>And although I loſt a dear and tender Husband, who was very dear to, and tender over me, yet (be<g ref="char:EOLhyphen"/>ing in the Lords will,) I am content with the will of God, being alſo that he now reaps the reward, which many a time he travelled for; and in forſack<g ref="char:EOLhyphen"/>ing his country, and his Fathers houſe, to come a<g ref="char:EOLhyphen"/>mongſt a people that ſerved the Lord with upright<g ref="char:EOLhyphen"/>neſs of heart, he had his deſire anſwered, and what great joy and peace he departed this Life, and is gone into everlaſting happineſs, to be with the Lord for ever and evermore.</p>
+            <closer>
+               <signed>Roſina Matern.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:33251:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
